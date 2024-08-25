@@ -1,0 +1,3 @@
+P100,Dove,250 tk
+P200,Ponds,350 tk
+P300,Head $ sHOULDER,480 tk
